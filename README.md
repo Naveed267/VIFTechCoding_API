@@ -1,2 +1,2 @@
 # VIFTechCoding_API
-JWT Token Authentication
+ApI with JWT Token Authentication
